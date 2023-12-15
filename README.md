@@ -1,7 +1,7 @@
-About me:"Hello! I'm Junayed Al Aditto. I've always been drawn to learning new things, you'll often find me hiking mountain trails or capturing the beauty of nature through photography.I believe in the power of continuous growth, both personally and professionally. " 
+About me:"Hello! I'm Junayed Al Aditto. I've always been drawn to learning new things. You'll often find me hiking mountain trails or capturing the beauty of nature through photography.I believe in the power of continuous growth, both personally and professionally. " 
 
 
-What I am doing:"I'm doing my bachelor in Computer Science & Engineerig in University of South Wales. besides that i'm doing a part time job." 
+What I am doing:"I'm doing my bachelor in Computer Science & Engineerig in University of South Wales. besides that I'm doing a part time job." 
 
 
 Skillset: Sore Skills, Flexibity, Problem Solving, Maintainance, Hard working and Dedicated, Disciplined in own performance, MS word, Exel, Powerpoint. 
